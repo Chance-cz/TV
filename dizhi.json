@@ -3,8 +3,8 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
-      "key": "豆豆",
-      "name": "备用公众号【叨观荐影】",
+      "key": "cz",
+      "name": "TV",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -585,7 +585,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://github.com/Chance-cz/TV/blob/main/yuan.txt",
+      "url": "https://raw.githubusercontent.com/Chance-cz/TV/main/yuan.txt",
       "playerType": 1,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
